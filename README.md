@@ -1,6 +1,4 @@
 # First_Project
-Data Analytics first project. Group 3.
-
 ## Electric Vehicles a Washington State Analysis
 Using data from Washington State we are exploring trends in electric Vehicle ownership from 2010-2020
 
