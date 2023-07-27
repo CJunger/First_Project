@@ -1,9 +1,6 @@
 # First_Project
 Data Analytics first project. Group 3.
 
-Image 2: This is where the list of rural/urban counties was created. The picture provides a visual map of Washington State's population density by county. 
-https://ofm.wa.gov/washington-data-research/population-demographics/population-estimates/population-density/population-density-county
-
 ## Electric Vehicles a Washington State Analysis
 Using data from Washington State we are exploring trends in electric Vehicle ownership from 2010-2020
 
@@ -13,7 +10,7 @@ Electric Vehicles have become more and more common in recent years. For this pro
 From the data set provided the results are that newer vehicles do have further battery range. In the years 2010 - 2013 the average battery range was 439.58 miles, in 2014 - 2017 the range was 391.56 miles, and finally in the years of 2018 - 2021 the range was 622.09 miles. As you can see as the years have gone by the average battery ranges have gone up with the exception of 2014 - 2017 which decreased by 48.02 miles. 
 
 ## What demographic factors are common among electric vehicle owners?
- Are battery powered vehicles more popular in urban areas?
+Are battery powered vehicles more popular in urban areas?
 
 Yes, there are more battery powered vehicles in urban areas than there are in rural areas.
 
@@ -35,16 +32,20 @@ Ford: Fusion Energi (PHEV), Focus Electric
 Toyota: Prius Prime (PHEV)
 BMW: i3, i8 (PHEV)
 
-### Screenshots
-Include logo/demo screenshot etc.
 
 ## Features
-What makes your project stand out?
-
 This project offers an overview of the electric vehicle market in Washington, covering more than a decade of data from 2010 to 2021. While this project only covers data up to 2021, it also provides a glimpse into the future outlook for electric vehicles in Washington, projecting continued growth and opportunities in the market.
 
-### API Reference
+## Sources
+Electric Vehicle Data
 (https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2)
+
+Washington County Population Densisty Map 2020. 
+https://ofm.wa.gov/washington-data-research/population-demographics/population-estimates/population-density/population-density-county
+
+2020 Census API Data 
+https://www.census.gov/data/developers/data-sets.html
+
 
 ### How to use?
 Personal Vehicle Purchase:
